@@ -9,6 +9,7 @@ export default new Vuex.Store({
       'intro',
       'overview',
       'ros',
+      'bagdb',
       'rockafly',
       'rotatingtunnel',
       'flywheel',

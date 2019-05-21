@@ -12,13 +12,18 @@
       <img src='../assets/rotating_tunnel_480.gif' />
     </div>
     <div class="column right">
-      <p> <b> Resusable components </b> </p>
+      </br> 
       <ul>
-        <li> autostep: motion control (ROS Package)</li>
-        <li> led_panels: (ROS Package) S. Safarik</li>
-        <li> alicat_ros: flow control (ROS Package) </li>
-        <li> magnotether: (ROS Package) </li>
-        <li> find_fly_angle: (Python Library) </li>
+        <li> <b> Combined Mechanisensory & Visaul Stimulus </b> </li>
+        <li> <b> Resusable components </b> 
+          <ul>
+            <li> autostep: motion control (ROS Package)</li>
+            <li> led_panels: (ROS Package) S. Safarik</li>
+            <li> alicat_ros: flow control (ROS Package) </li>
+            <li> magnotether: (ROS Package) </li>
+            <li> find_fly_angle: (Python Library) </li>
+          </ul>
+        </li>
       </ul>
         <p >
           <a href="https://github.com/willdickson/virtual_desert"a>https://github.com/willdickson/virtual_desert</a>

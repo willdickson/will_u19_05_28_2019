@@ -11,17 +11,28 @@
       </div>
       <div class="column right">
         </br>
-        <p> <b> Reusable Components </b> </p>
-
         <ul>
-          <li> autostep: motion control (ROS Package) </li>
-          <li> image_stabilizer: (ROS Package)</li>
-          <li> kinefly (ROS Package) S. Safarik </li>
-          <li> LED backlight driver (hardware) </li>
-          <li> IR backlight ring (hardware) </li> 
+          <li>  
+            <b> Mechanosensory Stimulus (angular velocity)</b>
+            <ul>
+              <li> rotate w.r.t.  yaw, pitch, roll</li>
+              <li> one axis at a time</li>
+            </ul>
+          </li>
+          </br>
+          <li>
+            <b> Reusable Components </b> 
+            <ul>
+              <li> autostep: motion control (ROS Package) </li>
+              <li> image_stabilizer: (ROS Package)</li>
+              <li> kinefly (ROS Package) S. Safarik </li>
+              <li> LED backlight driver (hardware) </li>
+              <li> IR backlight ring (hardware) </li> 
+            </ul>
+          </li>
         </ul>
 
-        <p >
+        <p>
           <a href="https://github.com/willdickson/rockafly_launch"a>https://github.com/willdickson/rockafly_launch</a>
           </br>
           <a href="https://github.com/willdickson/rockafly_mechanics"a>https://github.com/willdickson/rockafly_mechanics</a>

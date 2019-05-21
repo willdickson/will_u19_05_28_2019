@@ -4,7 +4,11 @@
       <ul>
         <li>
           <b> Software Systems Framework (ROS) </b>
+          <ul>
+            <li> bag file database </li>
+          </ul>
         </li>
+        </br>
         <li>
           <b> Overview of Selected Arenas </b>  - highlighting reusable components
           <ul>

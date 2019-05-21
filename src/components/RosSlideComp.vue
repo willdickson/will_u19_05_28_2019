@@ -9,11 +9,13 @@
           <img src="../assets/ros_logo.png"/>
         </div>
       </div>
-      <p class="text_left" > <b> Robotics framework (not really operating system) </b>  </p>
+      <p class="text_left" > <b> Open source  robotics framework/middleware </b>  </p>
       <ul>
-        <li> a ROS systems consists of a collection of nodes (programs)  </li>
-        <li> internode communications via pub/sub or proxy services </li>
+        <li> a system consists of a collection of nodes (programs)  </li>
+        <li> communications via publisher/subscriber or proxy services </li>
+        <li> software orgainzed into packages (reusable components) </li>
         <li> many pre-existing packages: cameras, sensors, image processing, etc. </li>
+        <li> parameter server, launch files, logging data (.bag files) </li>
       </ul>
       <img src="../assets/rqt_graph_vdesert.png"/>
       <p class="text_left"> <b> Experimental Rigs are ROS Systems (Robots) </b> </p> 
