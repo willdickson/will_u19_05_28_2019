@@ -3,20 +3,21 @@
     <h1>
       Rockafly (ROS Package) 
     </h1>
-    <p>  Bradley Dickerson & Kellan Moorse </p>
+    <p>  w/ Bradley Dickerson & Kellan Moorse </p>
 
     <div class="row">
       <div class="column left">
-        <img src='../assets/rockafly.png' />
+        <img src='../assets/rockafly_w_annotation.png' />
       </div>
       <div class="column right">
         </br>
         <ul>
           <li>  
-            <b> Mechanosensory Stimulus (angular velocity)</b>
+            <b> Mechanosensory stimulus (angular velocity)</b>
             <ul>
-              <li> rotate w.r.t.  yaw, pitch, roll</li>
-              <li> one axis at a time</li>
+              <li> rotation about yaw, pitch & roll </li>
+              <li> one axis at a time - different tether for each axis</li>
+              <li> open and closed loop </li>
             </ul>
           </li>
           </br>
@@ -25,6 +26,7 @@
             <ul>
               <li> autostep: motion control (ROS Package) </li>
               <li> image_stabilizer: (ROS Package)</li>
+              <li> rkf_mask (Ros Package) K. Moorse </li>
               <li> kinefly (ROS Package) S. Safarik </li>
               <li> LED backlight driver (hardware) </li>
               <li> IR backlight ring (hardware) </li> 
@@ -40,8 +42,7 @@
 
       </div>
     </div>
-
-
+    <img src="../assets/rockafly_rosgraph.png" />
   </div>
 </template>
 

@@ -7,6 +7,7 @@
     <h1>
       Activities
     </h1>
+    <canvas name="webgl_fluid_sim"> </canvas>
 
 
   </div>

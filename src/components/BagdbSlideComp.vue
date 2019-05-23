@@ -1,48 +1,55 @@
 <template>
   <div class="slide_comp">
 
-    <h1> Bag Files & Bag Database </h1>
-
-    </br> 
     <div class="padded">
-
-      <ul>
-        <li> 
-          <b> ROS bag files </b> 
-          <ul>
-            <li> primary mechanism in ROS for data logging </li>
-            <li> format for storing ROS message data (stuff published on topics)  </li>
-            <li> stores images, timestamps, sensor data, strings, etc.  (anything which can be published) </li>
-            <li> can be used for playback (useful for development) </li>
-            <li> extensive tools for working w/ .bags (inspecting, reading, rebagging, etc.) </li>
-          </ul>
-        </li>
-        </br> 
-        <li> 
-          <b> ROS bag database (by SRWI Robotics) </b> 
-          <ul>
-            <li> open source, docker container </li> 
-            <li> automaticaly scans for new bag files </li> 
-            <li> view images and image Streams </li> 
-            <li> add user descriptions and tags </li> 
-            <li> search by filename, keywoard, topic name and type, description, tags, etc.   </li>
-            <li> <a href="http://131.215.25.168:8080"> A running example </a>  </li>
-            <li> <a href="https://github.com/swri-robotics/bag-database"> https://github.com/swri-robotics/bag-database </a>  </li>
-
-          </ul>
-        </li>
-      </ul>
-
-      <!--
       <div class="row">
         <div class="column left">
-          <h1> Bag Files & Bag Database </h1>
+          <h1> ROS, Bag files &  Bag Database </h1>
         </div>
         <div class="column right">
           <img src="../assets/ros_logo.png"/>
         </div>
       </div>
-      --> 
+    </div>
+
+    <div class="padded">
+
+      <ul>
+        <li> 
+          <b> Experimental rigs are ROS systems (Robots) </b>  
+          <ul>
+            <li> log data </li>
+            <li> perform actions e.g. light/motion stimulus (open or closed loop) </li>
+            <li> ROS packages are reusable components </li>
+            <li> chain components to produce processing pipelines </li>
+            <li> existing packages: Kinefly & led_panels (S. Safarik), multi_tracker (F. Van Breugel) </li>
+          </ul>
+        </li>
+        </br>
+        <li> 
+          <b> Data logged as ROS .bag files </b> 
+          <ul>
+            <!-- <li> primary mechanism for data logging in ROS </li> --> 
+            <li> standard format for storing message data in single file (stuff published on topics)  </li>
+            <li> can store images, timestamps, sensor data, strings, etc.  (anything which can be published) </li>
+            <li> can be used for playback (useful for development) </li>
+            <li> extensive tools e.g. python rosbag library, rosbag.js, etc. (inspecting, reading, rebagging, etc.) </li>
+          </ul>
+        </li>
+        </br> 
+        <li> 
+          <b> Organizing & Sharing Data - ROS bag database (by SWRI Robotics) </b> 
+          <ul>
+            <li> open source, docker container </li> 
+            <li> automatically scans for new bag files </li> 
+            <li> view images and image Streams </li> 
+            <li> add user descriptions and tags </li> 
+            <li> search by filename, keyword, topic name and type, description, tags, etc.   </li>
+            <li> source code <a href="https://github.com/swri-robotics/bag-database"> https://github.com/swri-robotics/bag-database </a>  </li>
+            <li> <a href="http://131.215.25.168:8080"> example database </a>  </li>
+          </ul>
+        </li>
+      </ul>
 
     </div>
 
@@ -83,7 +90,7 @@ li {
   padding-top: 0%;
   padding-left: 20%;
   padding-right: 20%;
-  padding-bottom: 10%;
+  padding-bottom: 0%;
 }
 
 .text_left {

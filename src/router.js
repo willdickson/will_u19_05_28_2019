@@ -9,6 +9,7 @@ import RockaFlySlideView from './views/RockaFlySlideView.vue'
 import RotatingTunnelSlideView from './views/RotatingTunnelSlideView.vue'
 import FlyWheelSlideView from './views/FlyWheelSlideView.vue'
 import WalkingArenaSlideView from './views/WalkingArenaSlideView.vue'
+import AutostepSlideView from './views/AutostepSlideView.vue'
 
 Vue.use(Router)
 
@@ -58,6 +59,11 @@ export default new Router({
       path: '/walkingarena',
       name: 'walkingarena',
       component: () => import('./views/WalkingArenaSlideView.vue')
+    },
+    {
+      path: '/autostep',
+      name: 'autostep',
+      component: () => import('./views/AutostepSlideView.vue')
     },
     //{
     //  path: '/',

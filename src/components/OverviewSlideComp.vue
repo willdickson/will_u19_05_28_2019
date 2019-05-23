@@ -1,16 +1,18 @@
 <template>
   <div class="slide_comp">
+    <h1> Overview </h1>
     <div class="padded">
       <ul>
         <li>
-          <b> Software Systems Framework (ROS) </b>
+          <b> ROS software framework/middleware </b>
           <ul>
-            <li> bag file database </li>
+            <li> .bag files  </li>
+            <li> .bag database </li>
           </ul>
         </li>
         </br>
         <li>
-          <b> Overview of Selected Arenas </b>  - highlighting reusable components
+          <b> Selected Arenas (ROS Packages) </b>  - highlighting reusable components
           <ul>
             <li> Rockafly </li>
             <li> Rotating Wind Tunnel </li>
@@ -20,7 +22,7 @@
         </li>
         </br>
         <li>
-          <b> Reusable hardware/software components </b>
+          <b> Selected reusable hardware/software components </b>
           <ul>
             <li> Autostep: motion control </li>
             <li> Stimulus LED control   </li>
@@ -66,7 +68,7 @@ li {
 }
 
 .padded {
-  padding-top: 5%;
+  padding-top: 2%;
   padding-left: 20%;
   padding-right: 20%;
   padding-bottom: 10%;
