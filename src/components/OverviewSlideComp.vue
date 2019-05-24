@@ -6,8 +6,8 @@
         <li>
           <b> ROS software framework/middleware </b>
           <ul>
-            <li> .bag files  </li>
-            <li> .bag database </li>
+            <li> instruments as robots  </li>
+            <li> .bag files and .bag database</li>
           </ul>
         </li>
         </br>
@@ -22,14 +22,10 @@
         </li>
         </br>
         <li>
-          <b> Selected reusable hardware/software components </b>
+          <b> Reusable hardware/software components </b>
           <ul>
-            <li> Autostep: motion control </li>
-            <li> Stimulus LED control   </li>
-            <li> LED Backlighting  </li>
-            <li> Angular data: EM3242 non-contact sensor </li>
-            <li> Fictrac (Richard Moore): redis pub/sub, ROS package, foam balls  </li>
-            <li> and more ... </li>
+            <li> Example component: Autostep (motion control) </li>
+            <li> Currently available components </li>
           </ul>
         </li>
       </ul>

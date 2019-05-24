@@ -10,6 +10,8 @@ import RotatingTunnelSlideView from './views/RotatingTunnelSlideView.vue'
 import FlyWheelSlideView from './views/FlyWheelSlideView.vue'
 import WalkingArenaSlideView from './views/WalkingArenaSlideView.vue'
 import AutostepSlideView from './views/AutostepSlideView.vue'
+import Components1SlideView from './views/Components1SlideView.vue'
+import Components2SlideView from './views/Components2SlideView.vue'
 
 Vue.use(Router)
 
@@ -65,18 +67,15 @@ export default new Router({
       name: 'autostep',
       component: () => import('./views/AutostepSlideView.vue')
     },
-    //{
-    //  path: '/',
-    //  name: 'home',
-    //  component: Home
-    //},
-    //{
-    //  path: '/about',
-    //  name: 'about',
-    //  // route level code-splitting
-    //  // this generates a separate chunk (about.[hash].js) for this route
-    //  // which is lazy-loaded when the route is visited.
-    //  component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
-    //},
+    {
+      path: '/components1',
+      name: 'components1',
+      component: () => import('./views/Components1SlideView.vue')
+    },
+    {
+      path: '/components2',
+      name: 'components2',
+      component: () => import('./views/Components2SlideView.vue')
+    },
   ]
 })

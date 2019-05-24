@@ -4,7 +4,7 @@
     <div class="padded">
       <div class="row">
         <div class="column left">
-          <h1> ROS, Bag files &  Bag Database </h1>
+          <h1> Bag Files & Bag Database </h1>
         </div>
         <div class="column right">
           <img src="../assets/ros_logo.png"/>
@@ -15,19 +15,9 @@
     <div class="padded">
 
       <ul>
-        <li> 
-          <b> Experimental rigs are ROS systems (Robots) </b>  
-          <ul>
-            <li> log data </li>
-            <li> perform actions e.g. light/motion stimulus (open or closed loop) </li>
-            <li> ROS packages are reusable components </li>
-            <li> chain components to produce processing pipelines </li>
-            <li> existing packages: Kinefly & led_panels (S. Safarik), multi_tracker (F. Van Breugel) </li>
-          </ul>
-        </li>
         </br>
         <li> 
-          <b> Data logged as ROS .bag files </b> 
+          <b> Data logged as ROS bag files </b> 
           <ul>
             <!-- <li> primary mechanism for data logging in ROS </li> --> 
             <li> standard format for storing message data in single file (stuff published on topics)  </li>

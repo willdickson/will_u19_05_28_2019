@@ -8,13 +8,15 @@ export default new Vuex.Store({
     slideOrder: [
       'intro',
       'overview',
-      //'ros',
+      'ros',
       'bagdb',
       'rockafly',
       'rotatingtunnel',
       'flywheel',
       'walkingarena',
       'autostep',
+      'components1',
+      'components2',
     ],
 
   }, // state
