@@ -15,10 +15,10 @@
       <div class="column right">
 
         <ul>
-          <li> <b> Walking Arena  (1D Fictrac) </b> 
+          <li> <b> 1D treadmill </b> 
             <ul>
               <li> absolute position via magnetic angle sensor (non-contact)</li>
-              <li> virtual food stimulus via LED</li> 
+              <li> closed loop optogenetic stimulus</li> 
             </ul>
           </li>
           </br> 

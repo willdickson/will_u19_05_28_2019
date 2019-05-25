@@ -16,10 +16,10 @@
       <ul>
         <li> <b> Combined Mechanosensory + Visual Stimulus </b> 
           <ul>
-            <li> magnetic tether (yaw rotation) </li>
-            <li> controlled flow velocity and orientation  </li>
-            <li> virtual ground (LED panels display)  </li>
-            <li> virtual "sun" LED  strip </li>
+            <li> frictionless yaw rotation (magnetic tether) 
+            <li> controlled air flow velocity and orientation (rotating tunnel)  </li>
+            <li> virtual ventral optic flow (LED panels display)  </li>
+            <li> virtual "sun" (LED  strip) </li>
           </ul>
         </li>
         </br>

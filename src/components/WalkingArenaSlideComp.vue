@@ -25,25 +25,21 @@
       </div>
       <div class="column right">
         <ul> 
-          <li> <b> Multi-region walking arenas</b>
+          <li> <b> Parallelized free walking arenas</b>
             <ul>
               <li> position of flies tracked (realtime)</li>
-              <li> apply stimulus when classifier conditions met, e.g. virtual food </li>
+              <li> closed loop optogenetic stimulus (per arena)</li>
             </ul>
           </li>
           </br>
           <li> <b> Reusable components </b>
-
             <ul>
               <li> multi_tracker: (ROS Package), Floris. Van Breugel </li>
               <li> led_pwm: 6-channel LED PWM, (ROS Package)</li>
               <li> led_pwm_tlc5947: 24-channel LED PWM, (hardware, firmware, ROS Package)</li>
             </ul>
-            
           </li>
         </ul>
-
-
       </div>
     </div>
 

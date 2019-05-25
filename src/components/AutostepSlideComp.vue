@@ -35,7 +35,7 @@
             <li> python library  (no ROS dependency) </li>
             <li> node.js library (no ROS dependency) </li>  
             <li> webap GUI (no ROS dependecy)  </li>  
-            <li> documentation (Sphinx + autodoc) </li>
+            <li> <a href=""> documentation (Sphinx + autodoc) </a>  </li>
           </ul>
         </li>
         <li>  <a href="https://github.com/willdickson/autostep_ros">https://github.com/willdickson/autostep_ros</a> 
