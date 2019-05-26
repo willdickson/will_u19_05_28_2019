@@ -2,7 +2,7 @@
   <div class="slide_comp">
 
     <h1>
-      Autostep - Example Resuable Component
+      Example Component: Autostep
     </h1>
 
     <div class="padded">

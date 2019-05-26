@@ -21,20 +21,10 @@
         <li> 
           <div class="row">
             <div class="column li_left">
-              standard format for storing message data 
+              standard format for message data 
             </div>
             <div class="column li_right">
-              - stuff published on ROS topics  
-            </div>
-          </div>
-        </li>
-        <li> 
-          <div class="row">
-            <div class="column li_left">
-              images, timestamps, sensor data, strings, etc.   
-            </div>
-            <div class="column li_right">
-              - anything that can be published on a topic
+              - images, timestamps,  data, etc. 
             </div>
           </div>
         </li>
@@ -42,27 +32,27 @@
         <li> 
           <div class="row">
             <div class="column li_left">
-              can record and playback to/from bag files 
+              record and layback from bag files 
             </div>
             <div class="column li_right">
-              - useful during development 
+              - useful for development 
             </div>
           </div>
         </li>
         <li> 
           <div class="row">
             <div class="column li_left">
-              lots of tools for working with bag files  
+              lots of tools available   
             </div>
             <div class="column li_right">
-              - rqt_bag, command line, libraries c++, python, js, matlab, etc. 
+              - rqt_bag, libraries c++, python, js, matlab, etc. 
             </div>
           </div>
         </li>
       </ul>
 
     </div>
-
+    <img width="55%" src="../assets/rqt_bag.png"/>
   </div>
 </template>
 

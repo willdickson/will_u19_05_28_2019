@@ -6,7 +6,7 @@
         <li>
           <b> Software framework (ROS) </b>
           <ul>
-            <li> arena/instruments as robots  </li>
+            <li> arenas/instruments as robots  </li>
             <li> bag files </li> 
             <li> bag database</li>
           </ul>

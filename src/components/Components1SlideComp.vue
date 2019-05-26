@@ -49,7 +49,7 @@
                   ROS Package 
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/alicat_ros">https://github.com/willdickson/alicat_ros </a>
+                  <a href="https://github.com/flyloops/alicat_ros">https://github.com/flyloops/alicat_ros </a>
                 </div>
               </div>
             </li>
@@ -69,7 +69,7 @@
                   firmware, Python library, App w/ GUI
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/em3242_angle_sensor">https://github.com/willdickson/em3242_angle_sensor</a>
+                  <a href="https://github.com/flyloops/fs2012_flow_sensor"> https://github.com/flyloops/fs2012_flow_sensor </a>
                 </div>
               </div>
             </li>
@@ -82,7 +82,7 @@
                   firmware, Python library
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/fs2012_flow_sensor"> https://github.com/willdickson/fs2012_flow_sensor </a>
+                  <a href="https://github.com/flyloops/em3242_angle_sensor">https://github.com/flyloops/em3242_angle_sensor</a>
                 </div>
               </div>
             </li>
@@ -95,7 +95,21 @@
                   ROS Package
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/em3242_angle_sensor_ros">https://github.com/willdickson/em3242_angle_sensor_ros</a>
+                  <a href="https://github.com/flyloops/em3242_angle_sensor_ros">https://github.com/flyloops/em3242_angle_sensor_ros</a>
+                </div>
+              </div>
+            </li>
+
+            <li> 
+              <div class="row">
+                <div class="left">
+                  <b> image_stabilizer </b>  
+                </div>
+                <div class="center">
+                  ROS Package
+                </div>
+                <div class="right">
+                  <a href="https://github.com/flyloops/image_stabilizer">https://github.com/flyloops/image_stabilizer</a>
                 </div>
               </div>
             </li>
@@ -124,20 +138,6 @@
                 </div>
                 <div class="right">
                   <a href="https://github.com/willdickson/nano_trigger_dev">https://github.com/willdickson/nano_trigger_dev</a>
-                </div>
-              </div>
-            </li>
-
-            <li> 
-              <div class="row">
-                <div class="left">
-                  <b> image_stabilizer </b>  
-                </div>
-                <div class="center">
-                  ROS Package
-                </div>
-                <div class="right">
-                  <a href="https://github.com/willdickson/image_stabilizer">https://github.com/willdickson/image_stabilizer</a>
                 </div>
               </div>
             </li>

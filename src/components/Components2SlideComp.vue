@@ -50,7 +50,7 @@
                   24-channel, 12-bit, chainable,  LED PWM driver
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/mcu_to_tlc5947">https://github.com/willdickson/mcu_to_tlc5947 </a>
+                  <a href="https://github.com/flyloops/mcu_to_tlc5947">https://github.com/flyloops/mcu_to_tlc5947 </a>
                 </div>
               </div> 
             </li>
@@ -64,7 +64,7 @@
                   expansion board for L6470 AutoDriver
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/teensy_to_autodriver">https://github.com/willdickson/teensy_to_autodriver</a>
+                  <a href="https://github.com/flyloops/teensy_to_autodriver">https://github.com/flyloops/teensy_to_autodriver</a>
                 </div>
               </div> 
             </li>
@@ -78,7 +78,7 @@
                   3x3 light stimulus grid
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/pathint_arena_3x3_stim_grid">https://github.com/willdickson/pathint_arena_3x3_stim_grid</a>
+                  <a href="https://github.com/flyloops/pathint_arena_3x3_stim_grid">https://github.com/flyloops/pathint_arena_3x3_stim_grid</a>
                 </div>
               </div> 
             </li>
@@ -93,7 +93,7 @@
 
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/magneto_planar_arena">https://github.com/willdickson/magneto_planar_arena</a>
+                  <a href="https://github.com/flyloops/magneto_planar_arena">https://github.com/flyloops/magneto_planar_arena</a>
                 </div>
               </div> 
             </li>
@@ -101,13 +101,13 @@
             <li>
               <div class="row">
                 <div class="left">
-                  <b> angle_sensor_em3242 </b>  
+                  <b> em3242_breakout </b>  
                 </div>
                 <div class="center">
                   breakout board for the EM3242 angle sensor IC
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/angle_sensor_em3242">https://github.com/willdickson/angle_sensor_em3242</a>
+                  <a href="https://github.com/flyloops/em3242_breakout">https://github.com/flyloops/em3242_breakout</a>
                 </div>
               </div> 
             </li>
@@ -122,7 +122,7 @@
 
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/teensy_to_em3242">https://github.com/willdickson/teensy_to_em3242</a>
+                  <a href="https://github.com/flyloops/teensy_to_em3242">https://github.com/flyloops/teensy_to_em3242</a>
                 </div>
               </div> 
             </li>
@@ -137,7 +137,7 @@
 
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/ds3231_rpi3_cape">https://github.com/willdickson/ds3231_rpi3_cape</a>
+                  <a href="https://github.com/flyloops/ds3231_rpi3_cape">https://github.com/flyloops/ds3231_rpi3_cape</a>
                 </div>
               </div> 
             </li>

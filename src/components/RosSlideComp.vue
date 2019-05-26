@@ -14,7 +14,7 @@
     <div class="padded">
       <ul>
         <li> log data </li>
-        <li> perform actions e.g. light/motion stimulus (open or closed loop) </li>
+        <li> perform actions,  open/closed loop  e.g. light/motion stimulus </li>
         <li> ROS packages are reusable components </li>
         <li> chain nodes (from packages)  to produce processing pipelines </li>
         <li> existing packages: Kinefly & led_panels (S. Safarik), multi_tracker (F. Van Breugel) </li>
