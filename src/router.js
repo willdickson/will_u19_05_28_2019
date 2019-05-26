@@ -4,6 +4,7 @@ import Home from './views/Home.vue'
 import IntroSlideView from './views/IntroSlideView.vue'
 import OverviewSlideView from './views/OverviewSlideView.vue'
 import RosSlideView from './views/RosSlideView.vue'
+import BagFileSlideView from './views/BagFileSlideView.vue'
 import BagdbSlideView from './views/BagdbSlideView.vue'
 import RockaFlySlideView from './views/RockaFlySlideView.vue'
 import RotatingTunnelSlideView from './views/RotatingTunnelSlideView.vue'
@@ -36,6 +37,11 @@ export default new Router({
       path: '/ros',
       name: 'ros',
       component: RosSlideView,
+    },
+    {
+      path: '/bagfile',
+      name: 'bagfile',
+      component: BagFileSlideView,
     },
     {
       path: '/bagdb',

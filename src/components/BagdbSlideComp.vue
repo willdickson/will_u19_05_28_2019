@@ -4,7 +4,7 @@
     <div class="padded">
       <div class="row">
         <div class="column left">
-          <h1> Bag Files & Bag Database </h1>
+          <h1> Bag Database (SWRI Robotics)</h1>
         </div>
         <div class="column right">
           <img src="../assets/ros_logo.png"/>
@@ -13,34 +13,18 @@
     </div>
 
     <div class="padded">
-
+      <p style="text-align:left">
+      <b> Tool for organizing & sharing data  </b> 
+      </p>
       <ul>
-        </br>
-        <li> 
-          <b> Data logged as ROS bag files </b> 
-          <ul>
-            <!-- <li> primary mechanism for data logging in ROS </li> --> 
-            <li> standard format for storing message data in single file (stuff published on topics)  </li>
-            <li> can store images, timestamps, sensor data, strings, etc.  (anything which can be published) </li>
-            <li> can be used for playback (useful for development) </li>
-            <li> extensive tools e.g. python rosbag library, rosbag.js, etc. (inspecting, reading, rebagging, etc.) </li>
-          </ul>
-        </li>
-        </br> 
-        <li> 
-          <b> Organizing & Sharing Data - ROS bag database (by SWRI Robotics) </b> 
-          <ul>
-            <li> open source, docker container </li> 
-            <li> automatically scans for new bag files </li> 
-            <li> view images and image Streams </li> 
-            <li> add user descriptions and tags </li> 
-            <li> search by filename, keyword, topic name and type, description, tags, etc.   </li>
-            <li> source code <a href="https://github.com/swri-robotics/bag-database"> https://github.com/swri-robotics/bag-database </a>  </li>
-            <li> <a href="http://131.215.25.168:8080"> example database </a>  </li>
-          </ul>
-        </li>
+        <li> open source, docker container </li> 
+        <li> automatically scans for new bag files </li> 
+        <li> view images and image Streams </li> 
+        <li> add user descriptions and tags </li> 
+        <li> search by filename, keyword, topic name and type, description, tags, etc.   </li>
+        <li> source code <a href="https://github.com/swri-robotics/bag-database"> https://github.com/swri-robotics/bag-database </a>  </li>
+        <li> <a href="http://131.215.25.168:8080"> example database </a>  </li>
       </ul>
-
     </div>
 
   </div>

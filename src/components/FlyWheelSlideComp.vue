@@ -1,11 +1,10 @@
 <template>
   <div class="slide_comp">
     <h1>
-      FlyWheel (ROS Package)
+      Example Arena: FlyWheel 
     </h1>
     <p> w/ Annie Erickson </p>
 
-    </br> 
 
     <div class="row">
       <div class="column left">
@@ -34,7 +33,6 @@
         <a href="https://github.com/willdickson/flywheel_cad"a>https://github.com/willdickson/flywheel_cad</a>
       </div>
     </div>
-    </br>
     </br>
     <img width="60%" src="../assets/flywheel_rosgraph_2.png"/>
   </div>

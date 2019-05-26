@@ -3,7 +3,7 @@
     <div class="padded">
       <div class="row">
         <div class="column left">
-          <h1> Experimental rigs are robots  </h1>
+          <h1> Experimental Arenas = Robots  </h1>
         </div>
         <div class="column right">
           <img src="../assets/ros_logo.png"/>
@@ -11,44 +11,24 @@
       </div>
 
     </div>
-
-    </br>
     <div class="padded">
       <ul>
         <li> log data </li>
         <li> perform actions e.g. light/motion stimulus (open or closed loop) </li>
-        <li> ROS packages are reusable (software) components </li>
-        <li> chain components to produce processing pipelines </li>
+        <li> ROS packages are reusable components </li>
+        <li> chain nodes (from packages)  to produce processing pipelines </li>
         <li> existing packages: Kinefly & led_panels (S. Safarik), multi_tracker (F. Van Breugel) </li>
       </ul>
     </div>
 
     </br>
-    </br>
 
-    <img width="25%" src="../assets/robot_image.png" />
+    <!-- <img width="25%" src="../assets/robot_image.png" /> -->
+    <img width="35%" src="../assets/robot_fetch.gif" />
 
   </div>
 </template>
 
-<!-- 
-      <p class="text_left" > <b> Open source  robotics framework/middleware </b>  </p>
-      <ul>
-        <li> a system consists of a collection of nodes (programs)  </li>
-        <li> communications via publisher/subscriber or proxy services </li>
-        <li> software orgainzed into packages (reusable components) </li>
-        <li> many pre-existing packages: cameras, sensors, image processing, etc. </li>
-        <li> parameter server, launch files, logging data (.bag files) </li>
-      </ul>
-      <img src="../assets/rqt_graph_vdesert.png"/>
-      <p class="text_left"> <b> Experimental Rigs are ROS Systems (Robots) </b> </p> 
-      <ul>
-        <li> perform actions e.g. light/motion stimulus (open or closed loop) </li>
-        <li> ROS packages are reusable components </li>
-        <li> chain components to produce processing pipelines </li>
-        <li> existing packages: Kinefly & led_panels (S. Safarik), multi_tracker (F. Van Breugel) </li>
-      </ul>
--->
 
 <script>
 

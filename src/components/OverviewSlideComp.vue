@@ -4,28 +4,29 @@
     <div class="padded">
       <ul>
         <li>
-          <b> ROS software framework/middleware </b>
+          <b> Software framework (ROS) </b>
           <ul>
-            <li> instruments as robots  </li>
-            <li> .bag files and .bag database</li>
+            <li> arena/instruments as robots  </li>
+            <li> bag files </li> 
+            <li> bag database</li>
           </ul>
         </li>
         </br>
         <li>
-          <b> Selected Arenas (ROS Packages) </b>  - highlighting reusable components
+          <b> Example Arenas </b>  - highlight reusable components (ROS Packages)
           <ul>
-            <li> Rockafly </li>
-            <li> Rotating Wind Tunnel </li>
+            <li> Virtual Desert - rotating wind tunnel </li>
             <li> FlyWheel </li>
-            <li> Walking Arenas: Path Integration & Puzzleboxes </li>
           </ul>
         </li>
         </br>
         <li>
           <b> Reusable hardware/software components </b>
           <ul>
-            <li> Example component: Autostep (motion control) </li>
-            <li> Currently available components </li>
+            <li> hardware, firmware/software, ROS Packages </li>
+            <li> sharing: github, pypi, oshpark, thingiverse  </li>
+            <li> example component: Autostep (motion control) </li>
+            <li> table of currently available components </li>
           </ul>
         </li>
       </ul>
