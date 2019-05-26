@@ -2,14 +2,9 @@
   <div class="slide_comp">
     </br>
     <h1>
-      Intrumentation & Software Core 
+      Intrumentation & Software Core Activities 
     </h1>
-    <h1>
-      Activities
-    </h1>
-    <canvas name="webgl_fluid_sim"> </canvas>
-
-
+    <img width="60%"src="../assets/ball_machining.gif"/>
   </div>
 </template>
 

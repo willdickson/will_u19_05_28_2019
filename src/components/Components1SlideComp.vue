@@ -9,7 +9,7 @@
 
       <ul>
 
-        <!-- ---------------------------------------------------------------------------------------------- -->
+
         <li> 
           <b> Motion and Flow Control  </b>  
           <ul>
@@ -22,7 +22,7 @@
                   firmware, python & javascript libraries
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/autostep">https://github.com/willdickson/autostep</a>
+                  <a href="https://github.com/flyloops/autostep">https://github.com/flyloops/autostep</a>
                 </div>
               </div> 
             </li>
@@ -35,7 +35,7 @@
                   ROS Package
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/autostep_ros">https://github.com/willdickson/autostep_ros</a>
+                  <a href="https://github.com/flyloops/autostep_ros">https://github.com/flyloops/autostep_ros</a>
                 </div>
               </div> 
             </li>
@@ -57,7 +57,6 @@
         </li>
         </br>
 
-        <!-- ---------------------------------------------------------------------------------------------- -->
         <li> 
           <b> Sensors  </b>  
           <ul>
@@ -175,7 +174,6 @@
         </li>
         </br>
 
-        <!-- ---------------------------------------------------------------------------------------------- -->
         <li> 
           <b> LED Control  </b> 
           <ul>
@@ -268,7 +266,6 @@
         </br>
 
 
-        <!-- ---------------------------------------------------------------------------------------------- -->
         <li>
           <b> Data Logging  & Analysis </b> 
           <ul>

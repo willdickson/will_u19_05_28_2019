@@ -9,7 +9,6 @@
 
       <ul>
 
-        <!-- ---------------------------------------------------------------------------------------------- -->
         <li>
           <b> Electronics (design files, gerber files, BOM)</b> 
           <ul>
@@ -23,7 +22,7 @@
                   5-40V, 4A backlight controller
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/led_backlight_controller">https://github.com/willdickson/led_backlight_controller </a>
+                  <a href="https://github.com/flyloops/led_backlight_controller">https://github.com/flyloops/led_backlight_controller </a>
                 </div>
               </div> 
             </li>
@@ -37,7 +36,7 @@
                   IR LED light ring for magnotether 
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/magneto_ir_led_ring">https://github.com/willdickson/magneto_ir_led_ring </a>
+                  <a href="https://github.com/flyloops/magneto_ir_led_ring">https://github.com/flyloops/magneto_ir_led_ring </a>
                 </div>
               </div> 
             </li>
@@ -148,7 +147,6 @@
         </li>
         </br>
 
-        <!-- ---------------------------------------------------------------------------------------------- -->
         <li>
           <b> Mechanics (CAD, gcode)</b> 
           <ul>
@@ -162,7 +160,7 @@
                   Fictrac style floating ball fixtures  
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/floating_ball_mount">https://github.com/willdickson/floating_ball_mount</a>
+                  <a href="https://github.com/flyloops/floating_ball_mount">https://github.com/flyloops/floating_ball_mount</a>
                 </div>
               </div> 
             </li>
@@ -176,7 +174,7 @@
                    bearing mounted wheel with magnet slot 
                 </div>
                 <div class="right">
-                  <a href="https://github.com/willdickson/flywheel_cad">https://github.com/willdickson/flywheel_cad</a>
+                  <a href="https://github.com/flyloops/flywheel_cad">https://github.com/flyloops/flywheel_cad</a>
                 </div>
               </div> 
             </li>
