@@ -11,6 +11,9 @@ import RotatingTunnelSlideView from './views/RotatingTunnelSlideView.vue'
 import FlyWheelSlideView from './views/FlyWheelSlideView.vue'
 import WalkingArenaSlideView from './views/WalkingArenaSlideView.vue'
 import AutostepSlideView from './views/AutostepSlideView.vue'
+import AutostepHWSlideView from './views/AutostepHWSlideView.vue'
+import AutostepSWSlideView from './views/AutostepSWSlideView.vue'
+import AutostepROSSlideView from './views/AutostepROSSlideView.vue'
 import Components1SlideView from './views/Components1SlideView.vue'
 import Components2SlideView from './views/Components2SlideView.vue'
 
@@ -72,6 +75,21 @@ export default new Router({
       path: '/autostep',
       name: 'autostep',
       component: () => import('./views/AutostepSlideView.vue')
+    },
+    {
+      path: '/autostep_hw',
+      name: 'autostep_hw',
+      component: () => import('./views/AutostepHWSlideView.vue')
+    },
+    {
+      path: '/autostep_sw',
+      name: 'autostep_sw',
+      component: () => import('./views/AutostepSWSlideView.vue')
+    },
+    {
+      path: '/autostep_ros',
+      name: 'autostep_ros',
+      component: () => import('./views/AutostepROSSlideView.vue')
     },
     {
       path: '/components1',

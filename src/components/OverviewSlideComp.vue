@@ -4,7 +4,7 @@
     <div class="padded">
       <ul>
         <li>
-          <b> Software framework (ROS) </b>
+          <b> Software Framework - Robot Operating System (ROS) </b> 
           <ul>
             <li> arenas/instruments as robots  </li>
             <li> bag files </li> 
@@ -13,7 +13,7 @@
         </li>
         </br>
         <li>
-          <b> Example Arenas </b>  - highlight reusable components (ROS Packages)
+          <b> Example Arenas - highlight reusable components (ROS Packages) </b>
           <ul>
             <li> Virtual Desert - rotating wind tunnel </li>
             <li> FlyWheel </li>
@@ -21,12 +21,18 @@
         </li>
         </br>
         <li>
-          <b> Reusable hardware/software components </b>
+          <b> Example Component (Autostep) - focus on sharing </b>
           <ul>
-            <li> hardware, firmware/software, ROS Packages </li>
-            <li> sharing: github, pypi, oshpark, thingiverse  </li>
-            <li> example component: Autostep (motion control) </li>
-            <li> table of currently available components </li>
+            <li> hardware - CAD design files, gerber files, BOM</li>
+            <li> firmware - software libraries,  utilities, etc. </li>
+            <li> ROS Package </li>
+          </ul>
+        </li>
+        </br>
+        <li>
+          <b> List of Available Components </b>
+          <ul>
+            <li> Github repositories </li>
           </ul>
         </li>
       </ul>

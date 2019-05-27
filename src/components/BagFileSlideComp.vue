@@ -32,16 +32,6 @@
         <li> 
           <div class="row">
             <div class="column li_left">
-              record and layback from bag files 
-            </div>
-            <div class="column li_right">
-              - useful for development 
-            </div>
-          </div>
-        </li>
-        <li> 
-          <div class="row">
-            <div class="column li_left">
               lots of tools available   
             </div>
             <div class="column li_right">
@@ -49,10 +39,22 @@
             </div>
           </div>
         </li>
+
+        <li> 
+          <div class="row">
+            <div class="column li_left">
+              record and layback from bag files 
+            </div>
+            <div class="column li_right">
+              - useful for development 
+            </div>
+          </div>
+        </li>
+
       </ul>
 
     </div>
-    <img width="55%" src="../assets/rqt_bag.png"/>
+    <img  src="../assets/rqt_bag_scaled.png"/>
   </div>
 </template>
 

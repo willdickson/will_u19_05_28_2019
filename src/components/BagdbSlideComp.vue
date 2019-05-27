@@ -14,19 +14,25 @@
 
     <div class="padded">
       <p style="text-align:left">
-      <b> Tool for organizing & sharing data  </b> &nbsp &nbsp <a href="https://github.com/swri-robotics/bag-database">(https://github.com/swri-robotics/bag-database)</a>  
+      <b> Tool for organizing & sharing data  </b> 
+      &nbsp 
+      <a href="https://github.com/swri-robotics/bag-database">https://github.com/swri-robotics/bag-database</a>  
+       &nbsp 
+      <a href="http://131.215.25.168:8080"> demo </a>
       </p>
       <ul>
         <li> open source, docker container </li> 
-        <li> automatically scans for new bag files </li> 
-        <li> view images and image Streams </li> 
+        <li> automatically scans for new .bag files </li> 
+        <li> view/stream images  </li> 
         <li> add metadata, descriptions, tags </li> 
         <li> search by filename, keyword, topic name and type, description, tags, etc.   </li>
+        <!-- 
         <li> <a href="http://131.215.25.168:8080"> example </a>  </li>
+        --> 
       </ul>
     </div>
 
-    <img width="40%" src="../assets/temp_bag_database.png"/>
+    <img src="../assets/bag_database_screenshot_2_scaled.png"/>
 
   </div>
 </template>
