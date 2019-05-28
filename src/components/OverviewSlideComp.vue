@@ -25,7 +25,7 @@
           <ul>
             <li> hardware - CAD design files, gerber files, BOM</li>
             <li> firmware - software libraries,  utilities, etc. </li>
-            <li> ROS Package </li>
+            <li> ROS package </li>
           </ul>
         </li>
         </br>
