@@ -44,40 +44,6 @@
 
     <img src="../assets/proxy_app_screenshot.png"/>
 
-      <!--
-        <li>
-          <ul>
-            <li> 
-            PCB Designs for connecting to 
-            <a href="https://www.pjrc.com/teensy/teensy31.html"> teensy 3.2 </a> and 
-            <a href="">Arduino Nano </a> to the <a href="https://www.sparkfun.com/products/13752">Sparkfun Autodriver</a>  
-            </li>
-            <li> 
-              <a href="http://kicad-pcb.org/"> KiCad </a> 
-              design files, gerber files, bill-of-materials 
-            </li>
-          </ul>
-        </li>
-        <li>  
-          <a href="https://github.com/willdickson/autostep">https://github.com/willdickson/autostep</a>
-          <ul>
-            <li> firmware (C++), for teensy 3.2 with L6470 motor driver IC</li>
-            <li> python library  (no ROS dependency) </li>
-            <li> node.js library (no ROS dependency) </li>  
-            <li> webap GUI (no ROS dependecy)  </li>  
-            <li> <a href=""> documentation (Sphinx + autodoc) </a>  </li>
-          </ul>
-        </li>
-        <li>  <a href="https://github.com/willdickson/autostep_ros">https://github.com/willdickson/autostep_ros</a> 
-          <ul>
-            <li> Autostep ROS package. ROS node, launch files and message/service definitions </li>
-            <li> Autostep Proxy GUI.  Provides user interface for easy motor configuration, e.g. zeroing, etc.   </li>
-          </ul>
-        </li> 
-      </ul>
-      -->
-
-
   </div>
 
 </template>

@@ -2,7 +2,7 @@
   <div class="slide_comp">
     </br>
     <h1>
-      Intrumentation & Software Core Activities 
+      Instrumentation & Software Core Activities 
     </h1>
     <img width="60%"src="../assets/ball_machining.gif"/>
   </div>

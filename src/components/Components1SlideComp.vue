@@ -276,7 +276,7 @@
                   <b> h5_logger </b>  
                 </div>
                 <div class="center">
-                  HDF5 based data loggering utility
+                  HDF5 based data logging utility
                 </div>
                 <div class="right">
                   <a href="https://github.com/willdickson/h5_logger">https://github.com/willdickson/h5_logger</a>
@@ -304,7 +304,7 @@
                   <b> const_accel_kalman </b>  
                 </div>
                 <div class="center">
-                   dead simple Kalman filter w/ a constant accel model
+                   simple Kalman filter w/ a constant accel model
                 </div>
                 <div class="right">
                   <a href="https://github.com/willdickson/const_accel_kalman">https://github.com/willdickson/const_accel_kalman</a>

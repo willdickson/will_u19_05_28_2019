@@ -43,7 +43,7 @@
         <li> 
           <div class="row">
             <div class="column li_left">
-              record and layback from bag files 
+              record and playback from bag files 
             </div>
             <div class="column li_right">
               - useful for development 
